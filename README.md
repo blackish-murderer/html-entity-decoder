@@ -1,6 +1,6 @@
 # html-entity-decoder
 
-replaces every html entity in a string with the corresponding character
+replaces every html entity in a string with the corresponding unicode character
 
 ## Usage
 
