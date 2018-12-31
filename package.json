@@ -1,0 +1,25 @@
+{
+  "name": "html-entity-decoder",
+  "version": "1.0.0",
+  "description": "replaces every html entity in a string with the corresponding unicode character",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackish-murderer/html-entity-decoder.git"
+  },
+  "keywords": [
+    "xml",
+    "html",
+    "decoder",
+    "unicode"
+  ],
+  "author": "Blackish Murderer <blackish.murderer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackish-murderer/html-entity-decoder/issues"
+  },
+  "homepage": "https://github.com/blackish-murderer/html-entity-decoder#readme"
+}
