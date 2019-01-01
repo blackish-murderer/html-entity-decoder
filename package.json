@@ -1,6 +1,6 @@
 {
   "name": "html-entity-decoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "replaces every html entity in a string with the corresponding unicode character",
   "main": "index.js",
   "scripts": {
